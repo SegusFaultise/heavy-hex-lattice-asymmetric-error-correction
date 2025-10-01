@@ -30,8 +30,8 @@ You can run this simulation either in a local Python environment or using Docker
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/SegusFaultise/heavy-hex-lattice-asymmetric-error-correction.git
+    cd heavy-hex-lattice-asymmetric-error-correction
     ```
 
 2.  **Create and activate a virtual environment:**
