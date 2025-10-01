@@ -1,0 +1,11 @@
+matplotlib
+pylatexenc
+pyvis
+
+numpy
+networkx
+
+qiskit
+qiskit-aer
+qiskit-ibm-provider
+qiskit_ibm_runtime
